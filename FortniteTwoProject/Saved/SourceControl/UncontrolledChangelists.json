@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/NewFolder/Main_Scene.umap",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Scenes/Main_Scene.umap",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_BackgroundTrees.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_ForegroundTrees.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_Sky.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_TilesMain.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Character/Character.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_TilesMain_TileSet.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_Sky_TileSet.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_ForegroundTrees_TileSet.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/T_BackgroundTrees_TileSet.uasset",
+				"C:/UnrealProjects/FortniteTwo/FortniteTwoProject/Content/Assets/Environment/Main_TileMap.uasset"
+			]
+		}
+	]
+}
